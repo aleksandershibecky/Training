@@ -5,6 +5,5 @@ word = ("First text")
 print (word)
 word = ("Second text")
 print (word)
-
-a = raw_input("What is your name? ")
+a = input("What is your name? ")
 print ("Helo," " " + a +"!")
